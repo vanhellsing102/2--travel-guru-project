@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "areaName": "Sundarbans Mangrove Forest",
+      "photo": "https://i.postimg.cc/MKfS0jch/istockphoto-903052588-612x612.jpg",
+      "description": "The Sundarbans is the largest mangrove forest in the world, home to the Royal Bengal Tiger and a UNESCO World Heritage Site. Visitors can explore its unique biodiversity through guided tours and boat rides."
+    },
+    {
+      "id": 2,
+      "areaName": "Cox's Bazar Beach",
+      "photo": "https://i.postimg.cc/L5wMKmWC/pexels-photo-4090625.jpg",
+      "description": "Cox's Bazar is renowned for having the world's longest unbroken sandy sea beach, stretching over 120 kilometers. It's a popular destination for relaxation, surfing, and stunning sunsets."
+    },
+    {
+      "id": 3,
+      "areaName": "Srimangal",
+      "photo": "https://i.postimg.cc/85yS4RmV/pexels-photo-14408872.jpg",
+      "description": "Known as the 'Tea Capital of Bangladesh,' Srimangal is famous for its lush tea gardens, rolling hills, and serene environment. Visitors can enjoy tea tastings, hiking, and bird-watching."
+    },
+    {
+      "id": 4,
+      "areaName": "Bandarban Hill District",
+      "photo": "https://i.postimg.cc/fLWsY2XK/pexels-photo-6642513.jpg",
+      "description": "Bandarban offers breathtaking views of hills, waterfalls, and tribal villages. Key attractions include Nilgiri, Nafakhum waterfall, and the Golden Temple."
+    },
+    {
+      "id": 5,
+      "areaName": "Paharpur Buddhist Vihara",
+      "photo": "https://i.postimg.cc/7Z7q4Twg/free-photo-of-people-near-walls-of-ancient-fortification.jpg",
+      "description": "A UNESCO World Heritage Site, Paharpur Buddhist Vihara is an ancient monastery and an architectural marvel from the 8th century. It reflects the rich cultural heritage of Bangladesh."
+    }
+  ]
+  
